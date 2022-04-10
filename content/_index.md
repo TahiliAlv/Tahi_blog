@@ -13,8 +13,10 @@ Soy psicóloga, diseñadora e ilustradora, actualmente me dedico al reclutamient
 
 Mis expectativas para este curso de backend son:
 
-🌸 Entender cómo funciona el backend 
+🌸 Entender cómo funciona el backend
+
 🌸 Lograr programar un código funcional en Node
+
 🌸 Integrar lo que aprendí de Front end con los nuevos aprendizajes de backend
 
 
