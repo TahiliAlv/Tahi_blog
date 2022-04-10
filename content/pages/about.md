@@ -9,11 +9,11 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-Soy una persona con múltiples intereses, me gusta la danza, la psicología, la escritura, el dibujo, la lectura, los juegos de rol, los videojuegos, la música.
+🌸**Vamos poco a poco, intentar también es parte de avanzar**🌸
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Gatitos de Ulthar, hadas, sirenas, brujas, dragones, mahou shojo y batallas con katanas
+
+Si nada de eso te suena podemos hablar de pan dulce, tamales y taquitos.
+
+Saludos!!
 
