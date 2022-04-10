@@ -6,16 +6,7 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Tahili</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://tahilialv.github.io/Tahi_blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Mis expectativas</title>
-      <link>https://tahilialv.github.io/Tahi_blog/posts/intro/</link>
-      <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
-      
-      <guid>https://tahilialv.github.io/Tahi_blog/posts/intro/</guid>
-      <description>Usa este post para anotar tus expectativas de la misión.</description>
-    </item>
-    
+    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://tahilialv.github.io/Tahi_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
       <link>https://tahilialv.github.io/Tahi_blog/pages/about/</link>
@@ -25,6 +16,17 @@
       <description>Who am I Hola, aquí vas a leer un poco sobre mi 🤩
  Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit adfusique imis amplexus. Agmina per fabricator mittere Erymanthon habetque tot.
  Cineres Nile ipsa origine discurrunt adest Unde, et quem clausus, imo, virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur quis, digitis pedes.</description>
+    </item>
+    
+    <item>
+      <title>La cultura de un desarrolladxr de software</title>
+      <link>https://tahilialv.github.io/Tahi_blog/posts/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tahilialv.github.io/Tahi_blog/posts/intro/</guid>
+      <description>¡Hola!
+La cultura de un desarrolladxr está seguramente permeada por muchísimos factores, aún así creo que es posible enlistar al menos dos de los que a mí me han impactado más durante mis experiencias al trabajar en el mercado TI al convivir con desarrolladorxs dentro y fuera de su ambiente laboral.
+ El acceso a la información es libre y gratuito para todos.  Los desarrolladorxs tienen esto muy claro, casi todo lo que crean lo comparten con libertad en la comunidad.</description>
     </item>
     
   </channel>
