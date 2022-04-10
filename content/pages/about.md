@@ -5,13 +5,11 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## Quién soy 🌸
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+Soy una persona con múltiples intereses, me gusta la danza, la psicología, la escritura, el dibujo, la lectura, los juegos de rol, los videojuegos, la música.
 
 **Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
 virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
