@@ -5,7 +5,7 @@ menu:
     name: "AboutMe"
 ---
 
-## Quién soy 🌸
+## Tahili 🌸
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
