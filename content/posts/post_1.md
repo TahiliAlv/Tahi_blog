@@ -18,6 +18,8 @@ Me encantó la lógica y el ambiente imersivo de las actividades donde programan
 Primera impresión: fácil, la estructura está y sólo es acomodar
 Segunda impresión: tortura con los estilos
 Tercera y última: entendí los estilos luego de mucho investigar y entender la lógica, uff con todo llegamos a JS y pareció que todo caía en su lugar, llegamos al infinito y más allá como dijo el MC aunque yo me sentía como buzz con su brazo zafado y el mandil de la señora Nesbit
+
+
 **Backend mission con Node JS**
 
 *Próximamente la actualización*
